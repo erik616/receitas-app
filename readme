@@ -1,0 +1,7 @@
+react navigation
+
+npx expo install @react-native-async-storage/async-storage
+
+animations =>  npm i moti --legacy-peer-deps
+               npx expo install react-native-reanimated
+               npx expo install react-native-gesture-handler
